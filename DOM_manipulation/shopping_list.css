@@ -1,0 +1,21 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    width: auto;
+    display: flex;
+}
+
+div{
+    border:blue 2px solid;
+    height: 150px;
+    align-content: center;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+li button {
+    font-size: 12px;
+    margin-left: 20px;
+    color: #666;
+}
