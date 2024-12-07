@@ -22,6 +22,11 @@ const addItemButton = function(){
     span.textContent = groceryItem;
     button.textContent = "Delete";
     list.appendChild(newlist);
+
+
+        button.addEventListener("click", () => {
+        newlist.remove();
+    })
     })
 }
 
@@ -29,6 +34,3 @@ addItemButton();
 
 
 
-button.addEventListener("click", () => {
-    newlist.remove();
-})
