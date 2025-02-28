@@ -1,0 +1,926 @@
+Trade Date: 2/4/1990
+Instrument: daq
+Position: Long
+Entry Price: 2343.0
+Exit Price: 2345.0
+Stop Loss: 4523.0
+Take Profit: 23442.0
+Lot Size: 2.0
+Result: Win
+Status: Saved
+Profit/Loss: 4.0
+Trade Date: 2/4/1990
+Instrument: daq
+Position: Long
+Entry Price: 2343.0
+Exit Price: 2345.0
+Stop Loss: 4523.0
+Take Profit: 23442.0
+Lot Size: 2.0
+Result: Win
+Status: Saved
+Profit/Loss: 4.0
+Trade Date: 3/4/1890
+ ======================================Instrument: daq
+ ======================================Position: Short
+ ======================================Entry Price: 324.0
+ ======================================Exit Price: 235.0
+ ======================================Stop Loss: 2335.0
+ ======================================Take Profit: 23525.0
+ ======================================Lot Size: 2.0
+ ======================================Result: Win
+ ======================================Status: Saved
+ ======================================Profit/Loss: 178.0
+ ======================================Trade Date: 6/7/1680
+Instrument: daq
+Position: Short
+Entry Price: 1000.0
+Exit Price: 900.0
+Stop Loss: 1250.0
+Take Profit: 200.0
+Lot Size: 2.0
+Result: Win
+Status: Saved
+Profit/Loss: 200.0
+
+--------------------
+
+Trade Date: 6/3/2021
+Instrument: usdchf
+Position: Long
+Entry Price: 1909.0
+Exit Price: 3945.0
+Stop Loss: 1800.0
+Take Profit: 3945.0
+Lot Size: 1.0
+Result: Win
+Status: Saved
+Profit/Loss: 2036.0
+
+--------------------
+
+Trade Date: 6/5/2021
+Instrument: btc
+Position: Long
+Entry Price: 4567.89
+Exit Price: 2324.46334
+Stop Loss: 3453.3455
+Take Profit: 4636.45
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -2243.4266600000005
+
+--------------------
+
+Trade Date: 6/5/2021
+Instrument: btc
+Position: Long
+Entry Price: 4567.89
+Exit Price: 2324.46334
+Stop Loss: 3453.3455
+Take Profit: 4636.45
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -2243.4266600000005
+
+--------------------
+
+Trade Date: 6/5/2021
+Instrument: btc
+Position: Long
+Entry Price: 4567.89
+Exit Price: 2324.46334
+Stop Loss: 3453.3455
+Take Profit: 4636.45
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -2243.4266600000005
+
+--------------------
+
+Trade Date: 6/5/2021
+Instrument: btc
+Position: Long
+Entry Price: 4567.89
+Exit Price: 2324.46334
+Stop Loss: 3453.3455
+Take Profit: 4636.45
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -2243.4266600000005
+
+--------------------
+
+Trade Date: 6/5/2021
+Instrument: btc
+Position: Long
+Entry Price: 4567.89
+Exit Price: 2324.46334
+Stop Loss: 3453.3455
+Take Profit: 4636.45
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -2243.4266600000005
+
+--------------------
+
+Trade Date: 6/5/2021
+Instrument: btc
+Position: Long
+Entry Price: 4567.89
+Exit Price: 2324.46334
+Stop Loss: 3453.3455
+Take Profit: 4636.45
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -2243.4266600000005
+
+--------------------
+
+Trade Date: 45/452/556
+Instrument: daq
+Position: Short
+Entry Price: 2342.0
+Exit Price: 2353.0
+Stop Loss: 2525.0
+Take Profit: 23453.0
+Lot Size: 3.0
+Result: Loss
+Status: Saved
+Profit/Loss: -33.0
+
+--------------------
+
+Trade Date: 2/4/2004
+Instrument: daq
+Position: Short
+Entry Price: 3444.0
+Exit Price: 2442.0
+Stop Loss: 2335.0
+Take Profit: 352.4345
+Lot Size: 0.09
+Result: Win
+Status: Saved
+Profit/Loss: 90.17999999999999
+
+--------------------
+
+Trade Date: 2/4/2004
+Instrument: daq
+Position: Short
+Entry Price: 3444.0
+Exit Price: 2442.0
+Stop Loss: 2335.0
+Take Profit: 352.4345
+Lot Size: 0.09
+Result: Win
+Status: Saved
+Profit/Loss: 90.17999999999999
+
+--------------------
+
+Trade Date: 2/4/2004
+Instrument: daq
+Position: Short
+Entry Price: 3444.0
+Exit Price: 2442.0
+Stop Loss: 2335.0
+Take Profit: 352.4345
+Lot Size: 0.09
+Result: Win
+Status: Saved
+Profit/Loss: 90.17999999999999
+
+--------------------
+
+Trade Date: 12/06/2002
+Instrument: daq
+Position: Long
+Entry Price: 2350.0
+Exit Price: 3450.0
+Stop Loss: 2250.0
+Take Profit: 3490.0
+Lot Size: 1.0
+Result: Win
+Status: Saved
+Profit/Loss: 1100.0
+
+--------------------
+
+Trade Date: 12/06/2002
+Instrument: daq
+Position: Long
+Entry Price: 2350.0
+Exit Price: 3450.0
+Stop Loss: 2250.0
+Take Profit: 3490.0
+Lot Size: 1.0
+Result: Win
+Status: Saved
+Profit/Loss: 1100.0
+
+--------------------
+
+Trade Date: 12/06/2002
+Instrument: daq
+Position: Long
+Entry Price: 2350.0
+Exit Price: 3450.0
+Stop Loss: 2250.0
+Take Profit: 3490.0
+Lot Size: 1.0
+Result: Win
+Status: Saved
+Profit/Loss: 1100.0
+
+--------------------
+
+Trade Date: 12/06/2002
+Instrument: daq
+Position: Long
+Entry Price: 2350.0
+Exit Price: 3450.0
+Stop Loss: 2250.0
+Take Profit: 3490.0
+Lot Size: 1.0
+Result: Win
+Status: Saved
+Profit/Loss: 1100.0
+
+--------------------
+
+Trade Date: 12/06/2002
+Instrument: daq
+Position: Long
+Entry Price: 2350.0
+Exit Price: 3450.0
+Stop Loss: 2250.0
+Take Profit: 3490.0
+Lot Size: 1.0
+Result: Win
+Status: Saved
+Profit/Loss: 1100.0
+
+--------------------
+
+Trade Date: 12/06/2002
+Instrument: daq
+Position: Long
+Entry Price: 2350.0
+Exit Price: 3450.0
+Stop Loss: 2250.0
+Take Profit: 3490.0
+Lot Size: 1.0
+Result: Win
+Status: Saved
+Profit/Loss: 1100.0
+
+--------------------
+
+Trade Date: 12/06/2002
+Instrument: daq
+Position: Long
+Entry Price: 2350.0
+Exit Price: 3450.0
+Stop Loss: 2250.0
+Take Profit: 3490.0
+Lot Size: 1.0
+Result: Win
+Status: Saved
+Profit/Loss: 1100.0
+
+--------------------
+
+Trade Date: 12/06/2002
+Instrument: daq
+Position: Long
+Entry Price: 2350.0
+Exit Price: 3450.0
+Stop Loss: 2250.0
+Take Profit: 3490.0
+Lot Size: 1.0
+Result: Win
+Status: Saved
+Profit/Loss: 1100.0
+
+--------------------
+
+Trade Date: 12/06/2002
+Instrument: daq
+Position: Long
+Entry Price: 2350.0
+Exit Price: 3450.0
+Stop Loss: 2250.0
+Take Profit: 3490.0
+Lot Size: 1.0
+Result: Win
+Status: Saved
+Profit/Loss: 1100.0
+
+--------------------
+
+Trade Date: 12/06/2002
+Instrument: daq
+Position: Long
+Entry Price: 2350.0
+Exit Price: 3450.0
+Stop Loss: 2250.0
+Take Profit: 3490.0
+Lot Size: 1.0
+Result: Win
+Status: Saved
+Profit/Loss: 1100.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 5/9/09
+Instrument: dow
+Position: Short
+Entry Price: 3456.0
+Exit Price: 8778.0
+Stop Loss: 8778.0
+Take Profit: 76787.0
+Lot Size: 1.0
+Result: Loss
+Status: Saved
+Profit/Loss: -5322.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 4/7/2190
+Instrument: dow
+Position: Long
+Entry Price: 6757.0
+Exit Price: 8797.0
+Stop Loss: 6789.0
+Take Profit: 78990.0
+Lot Size: 2.0
+Result: Win
+Status: Saved
+Profit/Loss: 4080.0
+
+--------------------
+
+New Trade Entry:
+Trade Date: 2/19/2025
+Instrument: dow jones
+Position: Long
+Entry Price: 5878.0
+Exit Price: 8797.0
+Stop Loss: 5646.0
+Take Profit: 65890.0
+Lot Size: 2.0
+Result: Win
+Status: Saved
+Profit/Loss: 5838.0
+
+--------------------
+
